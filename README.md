@@ -1,6 +1,6 @@
 # EDA-Capstone-Project-
 Telecom Churn Analysis capstone project 1 
-# Problem Statement 
+# 1) Problem Statement 
 • Orange S.A., formerly France Télécom S.A., is a French multinational telecommunications corporation.The Orange Telecom's Churn Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer canceled the subscription.
 
 • Explore and analyze the data to discover key factors responsible for customer churn and come up with ways/recommendations to ensure customer retention.
@@ -21,7 +21,7 @@ Telecom Churn Analysis capstone project 1
 
 • Finally we have to look for Customer satisfaction.
 
-# Feature Engineering 
+# 2) Feature Engineering 
 Applied feature engineering to all the variables to see the behaviour of the customer towards company. With the help of Heat map we reduced highly co-related features, with VIF.Digging into data we understand that 
 
 • There is no null value in the data set. 
@@ -33,12 +33,12 @@ Applied feature engineering to all the variables to see the behaviour of the cus
 • Dependent variable should be considered as Churn.
 
 • Graphical representation according to various columns and with manipulation of columns.
-# Relation between Churn and Others 
+# 3) Relation between Churn and Others 
 • From heat map we can conclude that Total day minutes directly co-related to Total day charge, Total evening minutes directly co-related to Total evening charge, Total night minutes directly co-related to Total night charge, Total international minutes directly co-related to Total international charge.
 
 • There is not more but some what co-relation between Total day minutes and Churn, Total day charge and churn, Customer service calls and churn.
 
-# Conculision 
+# 4) Conculision 
 
 • From the given data and after performing EAD and comparison with the all the elements we say that there are some factors which company should taken care in consideration.
 
@@ -53,7 +53,7 @@ Applied feature engineering to all the variables to see the behaviour of the cus
 
 • States where customers churn rate is high increase advertisement in that area and increase customer service centers.   
 
-# References 
+# 5) References 
 [1] “Heterogeneous ensemble stacking with minority upliftment (HESMU) for churn prediction on imbalanced telecom data” by K. Sivasaankar Karuppaiah, N.P. Gopalan Palanisamy Materials today : Proceedings xxx (xxxx) xxx.
 
 [2] “Churn prediction on huge telecom data using hybrid firefly based classification” By Ammar A. Q. Ahmed ⇑ , Maheswari D. Egyptian Informatics Journal xxx (2017) xxx-xxx
